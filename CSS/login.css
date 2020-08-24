@@ -1,0 +1,54 @@
+.form-login {
+  background-color: #ededed;
+  padding: 10px 20px 20px;
+  border-radius: 15px;
+  border-color: #d2d2d2;
+  border-width: 5px;
+  box-shadow: 0 1px 0 #cfcfcf;
+}
+
+h4 {
+  border: 0 solid #fff;
+  border-bottom-width: 1px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.form-control {
+  border-radius: 10px;
+}
+
+.wrapper {
+  text-align: center;
+}
+.control-group .help  {
+	display: none;
+}
+
+.control-group.error .help {
+	display: block;
+}
+
+.control-group .control-label
+{
+  float: left;
+  width: 100px;
+  padding-top: 5px;
+  text-align: left;
+  color:black;
+
+}
+
+.checkbox
+{
+  color:black;
+}
+/*1962*/
+.container {
+  padding: 16px;
+  background-color: white;
+}
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
